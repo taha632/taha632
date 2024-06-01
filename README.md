@@ -65,3 +65,5 @@ Skills: Python - SQL - Maths - Data wrangling - Data Manipulation - Descriptive 
 <h3 align="left">Languages and Tools:</h3>
 
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+
+<img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/taha632/taha632/blob/main/Taha.svg">
