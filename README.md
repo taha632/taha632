@@ -14,7 +14,7 @@
 Computer engineering Fresh Graduate | Major in IoT. I`m Interested in Data Analysis, Machine Learning and Artificial Intelligence. I really enjoy learning languages as well as web designing.
 
 
-Skills: Python - SQL - Maths - Data wrangling - Data Manipulation - Descriptive analytics - Data Visualization - Statistics - Probability - Machine Learning
+Skills: Python - SQL - Maths - Data Wrangling - Data Manipulation - Descriptive analytics - Data Visualization - Statistics - Probability - Machine Learning
 
 
 
